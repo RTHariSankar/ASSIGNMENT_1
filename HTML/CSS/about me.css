@@ -1,0 +1,71 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    background-color:rosybrown;
+    height: 85px;
+    
+    
+    
+}
+header h2{
+    padding-top: 25px;
+}
+
+
+body{
+
+    background-color: black;
+    background-image: url('../IMAGES/BG.webp');
+    background-position: center;
+    background-size: cover;
+}
+footer{
+    background-color:rosybrown;
+    color: black;
+    font-style: oblique;
+    height: 2.5em;
+    margin-top: 173px;
+    text-align: center;
+}
+nav{
+    float: right;
+    margin-bottom: 50px;
+    margin-right: 1px;
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+}
+nav a{
+
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    padding: 8px;
+    margin-right: 8px;
+    border-radius: 100px;
+    
+}
+nav a:hover{
+
+    background-color: beige;
+    color: black;
+    transition: 0.5ms ease-in-out;
+}
+main h{
+    font-style: italic;
+    color: beige;
+    text-align: justify;
+    font-size: 125%;
+    font-style: italic;
+}
+main div{
+    border: 1px solid transparent;
+    padding-top: 100px;
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-bottom: 55px;
+
+}
